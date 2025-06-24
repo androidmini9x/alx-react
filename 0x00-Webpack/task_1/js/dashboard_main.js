@@ -11,7 +11,7 @@ function updateCounter() {
 
 const body = $('body');
 const btn = $('<button>Click here to get started</button>');
-btn.on('click', _.debounce(updateCounter, 300));
+btn.on('click', _.debounce(updateCounter, 500));
 
 body.append($('<p>ALX Dashboard</p>'));
 body.append($('<p>Dashboard data for the students</p>'));
