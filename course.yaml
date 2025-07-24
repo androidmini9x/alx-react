@@ -2,10 +2,4 @@
   :Course:
   - :Section: "Unit 1"
     :Repos:
-    - :Url: https://gitlab.com/te-curriculum/intro-to-tools-lms
-  - :Section: "Unit 2"
-    :Repos:
-    - :Url: https://gitlab.com/te-curriculum/data-persistence-using-spring-jdbc-lms
-  - :Section: "Unit 3"
-    :Repos:
-    - :Url: https://gitlab.com/te-curriculum/curriculum-utility-projects/te-curriculum-apis
+    - :Url: http://www.github.com/gSchool/fs-curriculum
