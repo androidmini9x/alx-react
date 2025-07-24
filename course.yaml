@@ -5,4 +5,7 @@
     - :Url: https://github.com/gSchool/sei.precourse.main
   - :Section: "Unit 1"
     :Repos:
-    - :Url: https://github.com/gSchool/legacy
+    - :Url: https://github.com/gSchool/cloud-native-curriculum
+  - :Section: "Unit 2"
+    :Repos:
+    - :Url: https://github.com/gSchool/g67_curriculum
