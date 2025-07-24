@@ -3,9 +3,6 @@
   - :Section: "Student Wiki"
     :Repos:
     - :Url: https://github.com/gSchool/sei.precourse.main
-  - :Section: "Spring 1"
-    :Repos:
-    - :Url: https://github.com/gSchool/sei.sprint.spring
   - :Section: "Unit 1"
     :Repos:
     - :Url: https://github.com/Ada-Developers-Academy/core-unit-1
