@@ -2,13 +2,4 @@
   :Course:
   - :Section: "Intro to Tools"
     :Repos:
-    - :Url: https://gitlab.com/te-curriculum/intro-to-tools-lms
-  - :Section: "Intro to Programming in Java"
-    :Repos:
-    - :Url: https://gitlab.com/te-curriculum/intro-to-programming-java-lms
-    - :Url: https://gitlab.com/te-curriculum/object-oriented-programming-java-lms
-    - :Url: https://gitlab.com/te-curriculum/unit-testing-java-lms
-    - :Url: https://gitlab.com/te-curriculum/file-io-java-lms
-  - :Section: "Client-Server Programming in Java"
-    :Repos:
-    - :Url: https://gitlab.com/te-curriculum/client-server-java-lms
+    - :Url: https://gitlab.com/te-curriculum/data-persistence-using-spring-jdbc-lms
