@@ -9,6 +9,6 @@
     - :Url: https://gitlab.com/te-curriculum/object-oriented-programming-java-lms
     - :Url: https://gitlab.com/te-curriculum/unit-testing-java-lms
     - :Url: https://gitlab.com/te-curriculum/file-io-java-lms
-  - :Section: "Test"
+  - :Section: "Client-Server Programming in Java"
     :Repos:
-    - :Url: https://gitlab.com/gSchool/fs-curriculum
+    - :Url: https://gitlab.com/te-curriculum/curriculum-utilities
