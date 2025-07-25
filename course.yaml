@@ -2,14 +2,4 @@
   :Course:
   - :Section: "Intro to Tools"
     :Repos:
-    - :Url: https://gitlab.com/te-curriculum/intro-to-sql-using-postgresql-lms
-    - :Url: https://gitlab.com/te-curriculum/data-persistence-using-spring-jdbc-lms
-    - :Url: https://gitlab.com/te-curriculum/networking-and-http-lms
-    - :Url: https://gitlab.com/te-curriculum/consuming-restful-apis-in-java-lms
-    - :Url: https://gitlab.com/te-curriculum/building-restful-apis-with-spring-boot-lms
-  - :Section: "MOD 3"
-    :Repos:
-    - :Url: https://gitlab.com/te-curriculum/html-and-css-lms
-    - :Url: https://gitlab.com/te-curriculum/client-side-javascript-lms
-    - :Url: https://gitlab.com/te-curriculum/asynchronous-programming-with-javascript-lms
-    - :Url: https://gitlab.com/te-curriculum/single-page-applications-using-vue-js-lms
+    - :Url: https://gitlab.com/te-curriculum/data-security-lms
