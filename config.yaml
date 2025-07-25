@@ -23,4 +23,4 @@ Standards:
     ContentFiles:
       - Type: Lesson
         UID: aed85b50-b3d9-11e8-ac02-d96c12bddf08
-        Path: README.md
+        Path: /dev-environment/00-overview.md
