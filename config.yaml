@@ -4,22 +4,6 @@ Standards:
   - Title: Development Environment
     UID: aed83440-b3d9-11e8-ac02-d96c12bddf08
     Description: Customize the command line for increased productivity
-    SuccessCriteria:
-      - Install and configure the Slack Application
-      - Install and/or configure a terminal program
-      - Install and/or configure a window management tool
-      - Score 25wpm or higher on typing.io with JavaScript
-      - Install an operating system package manager
-      - Install a text editor
-      - Install Node.js
-      - Install Git
-      - Customize command line prompt with zsh themes
-      - Print environment variables to the console
-      - >-
-        Define new environment variables for the existing terminal session and
-        for future terminal sessions
-      - Run JavaScript in the browser console
-      - Run JavaScript files with node and the repl
     ContentFiles:
       - Type: Lesson
         UID: aed85b50-b3d9-11e8-ac02-d96c12bddf08
