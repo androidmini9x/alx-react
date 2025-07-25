@@ -23,4 +23,4 @@ Standards:
     ContentFiles:
       - Type: Lesson
         UID: aed85b50-b3d9-11e8-ac02-d96c12bddf08
-        Path: https://github.com/Ada-Developers-Academy/core-unit-1/blob/main/fundamentals/functions-overview.md
+        Path: README.md
