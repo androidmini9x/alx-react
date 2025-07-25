@@ -1,5 +1,8 @@
 ---
   :Course:
-  - :Section: "Unit 1"
+  - :Section: "Intro to Tools"
     :Repos:
-    - :Url: https://github.com/gSchool/usaf-sdi-application
+    - :Url: https://gitlab.com/te-curriculum/intro-to-tools-lms
+  - :Section: "Intro to Programming in Java"
+    :Repos:
+    - :Url: https://gitlab.com/te-curriculum/intro-to-programming-java-lms
